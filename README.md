@@ -1,4 +1,4 @@
-# Real Estate Agency
+# Real Estate Agency-code
 
 A Real Estate website, dynamic and user-friendly website designed to cater for individuals seeking accommodation for short or long-term stays, as well as those interested in purchasing apartments. Built with HTML, CSS, and JavaScript, this project offers a seamless browsing experience with interactive features.
 
